@@ -9,7 +9,7 @@
   "scripts": {
     "prepare": "husky",
     "commit": "git-cz",
-    "fcmt": "git add . && git-cz"
+    "fcmt": "git add . && git-cz && git push"
 
   },
   "config": {
